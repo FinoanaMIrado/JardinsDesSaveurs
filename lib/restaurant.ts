@@ -3,7 +3,7 @@ export const restaurant = {
   tagline: 'Une cuisine du marché, entre terroir malgache et savoir-faire français.',
   address: '12 Rue Ramelina, Isoraka',
   city: 'Antananarivo 101, Madagascar',
-  phone: '+261 34 12 345 67',
+  phone: '+261 34 13 567 89',
   phoneHref: '+261341234567',
   email: 'bonjour@jardin-des-saveurs.mg',
   mapSrc:
